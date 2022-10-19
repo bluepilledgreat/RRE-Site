@@ -26,6 +26,8 @@ nav:
     - What is Reversing?: 'AboutReversing.md'
     - Client Features:
       - JoinScripts: 'Client Features/JoinScripts.md'
+      - Lua Documentation:
+        - GuiService: 'Lua Documentation/GuiService.md'
     - Client Security:
       - What are signatures?: 'Client Security/Signatures.md'
     - Common Issues:
